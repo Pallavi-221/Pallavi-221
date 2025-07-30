@@ -31,6 +31,14 @@ Frameworks: Bootstrap | Tailwind (Learning React soon!)
   <img src="https://streak-stats.demolab.com?user=pallavi-221&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📫 Connect With Me
+
+- 📧 your.email@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💻 [GitHub](https://github.com/pallavi-221)
+
 
 
 
