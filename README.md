@@ -16,23 +16,14 @@
 ```html
 Languages:  Java | Python | C | HTML | CSS | JavaScript
 Tools:      Git | GitHub | VS Code | Netlify | GitHub Pages
-Frameworks: Bootstrap | Tailwind (Learning React soon!)
+Frameworks: Bootstrap | Tailwind (Learning React soon)
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavi-221&show_icons=true&theme=radical" alt="Palavi's GitHub Stats" />
-</p>
+![Palavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi-221&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-221&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-221&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pallavi-221&theme=radical&border_radius=5" alt="GitHub Streak" />
-</p>
-
----
-
+![GitHub Streak](https://streak-stats.demolab.com?user=pallavi-221&theme=radical&border_radius=5)
 ## 📫 Connect With Me
 
 - 📧 pallavikeerthy221@gmail.com 
