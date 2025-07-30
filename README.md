@@ -17,4 +17,12 @@
 Languages:  Java | Python | C | HTML | CSS | JavaScript
 Tools:      Git | GitHub | VS Code | Netlify | GitHub Pages
 Frameworks: Bootstrap | Tailwind (Learning React soon!)
+## 📈 GitHub Stats
+
+![Palavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi-221&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi-221&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pallavi-221&theme=radical&border_radius=5)
+
 
