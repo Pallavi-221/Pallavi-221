@@ -10,14 +10,14 @@
 - 🔥 [AlgoHub](https://your-algohub-link.com): Full-stack DSA practice platform (Java + Web)
 - 🧰 [Resume Builder](https://your-resume-builder-link.com): Smart online resume creator
 - 🌐 [Portfolio Website](https://your-portfolio-link.com): My personal site built from scratch
-```markdown
+
 ## 💻 Tech Stack
 
 Languages: Java | Python | C | HTML | CSS | JavaScript  
 Tools: Git | GitHub | VS Code | Netlify | GitHub Pages  
 Frameworks: Bootstrap | Tailwind (Learning React soon!)
 
----
+
 ## 📈 GitHub Stats
 
 ![Palavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi-221&show_icons=true&theme=radical)
