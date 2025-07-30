@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Palavi!
+# 👋 Hi, I'm Pallavi!
 
 🎓 Final Year B.Tech (EEE) Student  
 💻 Passionate about Java, Web Development & DSA  
