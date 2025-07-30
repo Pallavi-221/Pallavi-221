@@ -35,8 +35,8 @@ Frameworks: Bootstrap | Tailwind (Learning React soon!)
 
 ## 📫 Connect With Me
 
-- 📧 your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 📧 pallavikeerthy221@gmail.com 
+- 💼 [LinkedIn](https://linkedin.com/in/k-pallavi-863679356/)  
 - 💻 [GitHub](https://github.com/pallavi-221)
 
 
